@@ -1,4 +1,5 @@
 # CODSOFT-Task-3
+The Python program "Password Generator" you're developing as part of your internship will prompt the user to enter the desired number of digits for their password. Once the user provides this input, the program will generate a random password containing the specified number of characters. The generated password may include a mix of uppercase and lowercase letters, numbers, and special symbols to enhance security.
 
 
 # OUTPUT:
